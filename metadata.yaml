@@ -18,5 +18,5 @@ limitations under the License.
 homepage: "https://exacti.us/"
 documentation: "https://exacti.us"
 versions:
-  - sha: c48f93b9dd1095b87535662340ca7c71f1e00937
+  - sha: 1a8c283332c25cc477f1b6bc54742e951dcc59b3
     changeNotes: Initial Release.
