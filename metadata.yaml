@@ -1,5 +1,5 @@
 homepage: "https://exacti.us/"
 documentation: "https://exacti.us"
 versions:
-  - sha: c347c29abb4358cce357e58692aeaad499cc1519
-    changeNotes: Initial Release.
+  - sha: 59ac508d5273d1a83d6cd3bc39c0196d8eb36ab4
+    changeNotes: update thumbnail and company name
